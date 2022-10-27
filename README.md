@@ -1,2 +1,2 @@
 # -Using-Recency-Frequency-and-Monetary-Value
-Depth of Customer Relationship 
+Analysing the Depth of Customer Relationship 
